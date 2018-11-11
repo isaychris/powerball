@@ -1,7 +1,10 @@
 # powerball
+A lottery simulator which keeps generating lottery tickets until all 6 numbers match. Find out how lucky you are. 
 
-There are two versions:  
-1) Keeps generating tickets until you win and displays how many tickets were bought.   
-2) Only generates one ticket.  
+Inspired by the $1.5B jackpot in 2016.
+
+There are two versions included:  
+  * version1.cpp =  Keeps generating tickets until you win and displays how many tickets were bought. 
+  * version2.cpp = Only generates one ticket.  
 
 ![Image](https://i.imgur.com/t2WAedZ.png)
